@@ -1,0 +1,84 @@
+{
+    "eventId": "09de9bb1-cb98-dd11-813b-b79f6ae0cae3",
+    "schemaId": "",
+    "eventType": "",
+    "eventTime": "",
+    "eventTimezoneOffset": "",
+    "eventSequenceNumber": 0,
+    "contentType": "application/json",
+    "transactionId": 0,
+    "objectType": "PMDataSchema::Measurement",
+    "object": {
+      "Jade.oid": "7096.1",
+      "Jade.instanceId": 1,
+      "Jade.edition": 6,
+      "comments": "Created due to the confirmation of an admission",
+      "createTime": "2009-08-18T09:59:48Z",
+      "createdBy": {
+        "Jade.objectType": "PMDataSchema::VCUser",
+        "Jade.instanceId": 1,
+        "Jade.oid": "2498.1"
+      },
+      "lastModifiedBy": {
+        "Jade.objectType": "CSBaseSchema::User",
+        "Jade.instanceId": 0,
+        "Jade.oid": "0.0"
+      },
+      "measurement_1": 70.0,
+      "modifiedTime": "2015-04-14T17:51:12Z",
+      "myCalendarEntry": {
+        "Jade.objectType": "PMDataSchema::CalendarEntry",
+        "Jade.instanceId": 1539,
+        "Jade.oid": "7975.1539"
+      },
+      "myCodeListItem": {
+        "Jade.objectType": "PMDataSchema::CodeListItem",
+        "Jade.instanceId": 0,
+        "Jade.oid": "0.0"
+      },
+      "myMeasurementType": {
+        "Jade.objectType": "PMDataSchema::MeasurementType",
+        "Jade.instanceId": 1,
+        "Jade.oid": "7064.1"
+      },
+      "myPlannedUser": {
+        "Jade.objectType": "PMDataSchema::VCUser",
+        "Jade.instanceId": 0,
+        "Jade.oid": "0.0"
+      },
+      "myRecordedUser": {
+        "Jade.objectType": "PMDataSchema::VCUser",
+        "Jade.instanceId": 1,
+        "Jade.oid": "2498.1"
+      },
+      "myRecurrenceGenterated": {
+        "Jade.objectType": "PMDataSchema::VCRecurrence",
+        "Jade.instanceId": 0,
+        "Jade.oid": "0.0"
+      },
+      "myResident": {
+        "Jade.objectType": "PMDataSchema::VCClient",
+        "Jade.instanceId": 1,
+        "Jade.oid": "2143.1"
+      },
+      "myRound": {
+        "Jade.objectType": "PMDataSchema::Round",
+        "Jade.instanceId": 0,
+        "Jade.oid": "0.0"
+      },
+      "myTrigger": {
+        "Jade.objectType": "PMDataSchema::Trigger",
+        "Jade.instanceId": 0,
+        "Jade.oid": "0.0"
+      },
+      "myVillage": {
+        "Jade.objectType": "PMDataSchema::VCVillage",
+        "Jade.instanceId": 2,
+        "Jade.oid": "2181.2"
+      },
+      "plannedDateTime": "2007-05-05T10:00:00Z",
+      "recordedDateTime": "2012-02-12T11:17:00Z",
+      "status": "a",
+      "zMeasurementDate": "2012-02-12"
+    }
+  }
